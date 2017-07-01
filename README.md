@@ -1,5 +1,5 @@
 # AIND---Solve-Sudoku-with-AI
-A Sudoku Solving AI that uses strategies like Eliminate, Only Choice, Search, Naked Twins.
+A Sudoku Solving AI that uses strategies like Eliminate, Only Choice, Search and Naked Twins.
 # Artificial Intelligence Nanodegree
 ## Introductory Project: Diagonal Sudoku Solver
 
